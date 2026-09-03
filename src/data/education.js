@@ -2,7 +2,7 @@ const education =[
     {
         title: "B.Tech",
         course: "Data Science",
-        cgpa: 8.12,
+        cgpa: 8.11,
         year: "2023-2027",
         college: "Anil Neerukonda Institute of Technology and Science"
     },

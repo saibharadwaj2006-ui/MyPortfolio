@@ -79,7 +79,7 @@ function Hero() {
                 <span>Email</span>
               </a>
               <a
-                href="/SaiBharadwajResume.pdf"
+                href="/SaiBharadwaj_WebDev_Resume.pdf"
                 target="_blank" rel="noopener noreferrer"
                 className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-gemini-blue to-gemini-purple text-white rounded-full shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all"
               >
